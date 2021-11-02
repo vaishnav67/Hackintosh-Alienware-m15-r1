@@ -6,11 +6,16 @@ Tested with macOS Mojave 10.14.6 (November 2nd 2021)
 
 * CPU: Intel Core i7-8750H
 * iGPU: Intel UHD Graphics 630
-* dGPU: NVIDIA GeForce RTX 2060
+* dGPU: NVIDIA GeForce RTX 2060 (Disabled with -wegnoegpu)
 * WiFi Chip: Killer Wireless AC-1550 (9260NGW)
 * Ethernet: Killer E2500
 * Audio: Realtek ALC289
-
+## Working
+* Wi-Fi
+* Bluetooth
+* Audio
+* Headphones (Headset mic doesn't seem to be working)
+* Front Camera
 ## Tutorial Used
 https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html
 ## Tools Used
