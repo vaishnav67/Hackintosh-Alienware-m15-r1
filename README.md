@@ -4,12 +4,15 @@ Read everything before attempting else you'll look like a clown. I spent hours g
 ## Details
 Tested with macOS Mojave 10.14.6 (November 2nd 2021)
 ![Screenshot 2021-11-03 at 5 54 55 PM](https://user-images.githubusercontent.com/32519167/140059946-cc5722b3-8612-4098-98bf-48050e59450a.png)
+### Hardware Details
 * CPU: Intel Core i7-8750H
 * iGPU: Intel UHD Graphics 630
 * dGPU: NVIDIA GeForce RTX 2060 (Disabled with -wegnoegpu)
 * WiFi Chip: Killer Wireless AC-1550 (9260NGW)
 * Ethernet: Killer E2500
 * Audio: Realtek ALC289
+### BIOS
+* Secure Boot: Off
 ## Working
 * Wi-Fi
 * Bluetooth
