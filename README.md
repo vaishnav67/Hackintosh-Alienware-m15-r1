@@ -51,4 +51,4 @@ as I had [OCABC: MAT support is 0](https://dortania.github.io/OpenCore-Install-G
 In `PlatformInfo -> Generic`,
 Change SystemSerialNumber, MLB and SystemUUID from the ones generated in GenSMBIOS.
 ## EFI and USB is ready, yay!
-You are ready padawan.
+You are ready padawan. Follow the [post install](https://dortania.github.io/OpenCore-Post-Install/) guide to boot directly from hard drive instead of USB, use GUI based boot screen, audio issues, etc.
