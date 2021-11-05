@@ -23,7 +23,7 @@ Tested with macOS Mojave 10.14.6 (November 2nd 2021)
 ## Tutorial Used
 https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html
 ## Tools Used
-* [OpenCore v0.7.5](https://github.com/acidanthera/OpenCorePkg/releases) The heart and soul
+* [OpenCore v0.7.5-Debug](https://github.com/acidanthera/OpenCorePkg/releases) The heart and soul
 * [gibMacOS](https://github.com/corpnewt/gibMacOS/) Used for downloading MacOS (You can also use the method OpenCore uses too)
 * [proprTree](https://github.com/corpnewt/ProperTree) Plist editing
 * [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) Generate SMBIOS Data
@@ -55,4 +55,4 @@ as I had [OCABC: MAT support is 0](https://dortania.github.io/OpenCore-Install-G
 In `PlatformInfo -> Generic`,
 Change SystemSerialNumber, MLB and SystemUUID from the ones generated in GenSMBIOS.
 ## EFI and USB is ready, yay!
-You are ready padawan. Follow the [post install](https://dortania.github.io/OpenCore-Post-Install/) guide to boot directly from hard drive instead of USB, use GUI based boot screen, audio issues, etc.
+You are ready padawan. Run the installer from the USB to install MacOS and follow the [post install](https://dortania.github.io/OpenCore-Post-Install/) guide to boot directly from hard drive instead of USB, use GUI based boot screen, audio issues, etc. You can also replace the [Debug version of Opencore with Release](https://caizhiyuan.gitee.io/opencore-install-guide/troubleshooting/debug.html) to prevent creation of log files and remove the delay at start
