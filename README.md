@@ -2,7 +2,7 @@
 ## IMPORTANT
 Read everything before attempting else you'll look like a clown. I spent hours getting this to work and this was my first time making this so if there are any issues or modifications to be made, do tell!
 ## Details
-Tested with macOS Mojave 10.14.6 (November 2nd 2021)
+Tested with macOS Mojave 10.14.6 (11th November 2021)
 ![Screenshot 2021-11-03 at 5 54 55 PM](https://user-images.githubusercontent.com/32519167/140059946-cc5722b3-8612-4098-98bf-48050e59450a.png)
 ### Hardware Details
 * CPU: Intel Core i7-8750H
