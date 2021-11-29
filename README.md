@@ -12,7 +12,7 @@ Tested with macOS Mojave 10.14.6 (November 2nd 2021)
 * Ethernet: Killer E2500
 * Audio: Realtek ALC289
 ### BIOS
-* Version 2.8.0
+* Version 2.9.0
 * Secure Boot: Off
 ## Working
 * Wi-Fi
