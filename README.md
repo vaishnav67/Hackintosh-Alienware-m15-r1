@@ -11,7 +11,7 @@ Welcome to hackintoshing your Alienware m15 r1.
 There's currently EFIs ready for
 * Mojave
 * Monterey
-###What do I need to do?
+### What do I need to do?
 Read the readme present inside the folders. Mostly everything is setup except for the SMBIOS part.
 
 ### Have fun with your hackintosh!
