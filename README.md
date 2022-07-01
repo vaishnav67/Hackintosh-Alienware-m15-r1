@@ -1,5 +1,5 @@
 # Hackintoshing Alienware m15 r1
-Welcome to hackintoshing your Alienware m15 r1.
+Welcome to hackintoshing your Alienware m15 r1!
 ### Alienware m15 r1 Hardware Details
 * CPU: Intel Core i7-8750H
 * iGPU: Intel UHD Graphics 630
