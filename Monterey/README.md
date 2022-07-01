@@ -2,8 +2,8 @@
 ## IMPORTANT
 Read everything before attempting else you'll look like a clown. I spent hours getting this to work and this was my first time making this so if there are any issues or modifications to be made, do tell!
 ## Details
-Tested with macOS Monterey (2nd July 2022)
-![Screenshot 2021-11-03 at 5 54 55 PM](https://user-images.githubusercontent.com/32519167/140059946-cc5722b3-8612-4098-98bf-48050e59450a.png)
+Tested with macOS Monterey 12.4 (2nd July 2022)
+![Screen Shot 2022-07-02 at 1 24 12 AM](https://user-images.githubusercontent.com/32519167/176961037-6387179f-82c5-4878-8504-df749a334e47.png)
 ### Hardware Details
 * CPU: Intel Core i7-8750H
 * iGPU: Intel UHD Graphics 630
