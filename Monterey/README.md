@@ -3,7 +3,7 @@
 Read everything before attempting else you'll look like a clown. I spent hours getting this to work and this was my first time making this so if there are any issues or modifications to be made, do tell!
 ## Details
 Tested with macOS Monterey 12.4 (2nd July 2022)
-![Screen Shot 2022-07-02 at 1 24 12 AM](https://user-images.githubusercontent.com/32519167/176961037-6387179f-82c5-4878-8504-df749a334e47.png)
+![Screen Shot 2022-07-02 at 1 28 27 AM](https://user-images.githubusercontent.com/32519167/176961262-59256da1-a6e3-4f85-bebe-ace7405b3633.png)
 ### Hardware Details
 * CPU: Intel Core i7-8750H
 * iGPU: Intel UHD Graphics 630
