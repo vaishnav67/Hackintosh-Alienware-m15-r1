@@ -23,7 +23,7 @@ Tested with macOS Mojave 10.14.6 (11th November 2021)
 ## Tutorial Used
 https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html
 ## Tools Used
-* [OpenCore v0.7.5-Debug](https://github.com/acidanthera/OpenCorePkg/releases) The heart and soul
+* [OpenCore v0.7.5-Release](https://github.com/acidanthera/OpenCorePkg/releases) The heart and soul
 * [gibMacOS](https://github.com/corpnewt/gibMacOS/) Used for downloading MacOS (You can also use the method OpenCore uses too)
 * [proprTree](https://github.com/corpnewt/ProperTree) Plist editing
 * [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) Generate SMBIOS Data
